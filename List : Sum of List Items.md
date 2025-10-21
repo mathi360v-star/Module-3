@@ -10,13 +10,11 @@ To write a Python program that calculates the **sum of all elements** in a list.
 
 ## 🧾 Program
 ```
-def createlist(a):
-l = []
-  for i in range(a):
-  if i%2!=0:
-      l.append(i)
-print(l)
-print(sum(l))
+numbers = [10, 20, 30, 40, 50]
+total = sum(numbers)
+print(total)
+
+
 ```
 
 ## Output
