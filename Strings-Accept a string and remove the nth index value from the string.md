@@ -32,6 +32,8 @@ print(remove(string))
 ```
 
 ## Output
+<img width="524" height="144" alt="image" src="https://github.com/user-attachments/assets/8f7dbd21-8b5a-443a-8f62-6b8de764cf61" />
+
 
 
 ## Result
