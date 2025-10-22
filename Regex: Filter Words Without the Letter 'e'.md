@@ -24,6 +24,8 @@ for item in items:
 print(result)
 ```
 ## Output
+<img width="531" height="161" alt="image" src="https://github.com/user-attachments/assets/94ada18d-3ed4-46ae-a0d5-85a00c225291" />
+
 
 ## Result
 The Python program that filters out and returns all elements from a list **that do not contain the letter `'e'`**, using **regular expressions (regex)** is executed is successfully.
